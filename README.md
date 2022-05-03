@@ -62,7 +62,9 @@ else:
 
 ~~~
 # Output
- ![166331605-c8baad6f-1827-4125-9221-66e4b63672a8](https://user-images.githubusercontent.com/75235759/166440476-fdd7a17d-15a2-462b-8437-8c1acd82bc04.jpg)
+![Screenshot (73)](https://user-images.githubusercontent.com/75235759/166440627-915dfe5d-fa79-475a-9b54-c7c6ffb4696d.png)t
+
+
 
 # Results 
  Thus, fitting poisson distribution for the given frequencey distribution is verified.
